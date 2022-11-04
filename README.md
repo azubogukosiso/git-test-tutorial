@@ -1,3 +1,3 @@
-# MyApp
+# Git Test
 
-This is only a git test
+This is only a git test 😉
